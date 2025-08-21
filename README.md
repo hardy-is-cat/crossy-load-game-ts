@@ -6,6 +6,7 @@
   - React
   - Vite
   - React Three Fiber
+- 배포 주소 : https://hardy-is-cat.github.io/crossy-load-game-ts/
 - reference : [Crossy Road with React Three Fiber](https://javascriptgametutorials.com/tutorials/react-three-fiber/crossy-road)
 
 |                     게임화면                      |
